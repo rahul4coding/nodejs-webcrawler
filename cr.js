@@ -44,7 +44,7 @@ var c = new Crawler({
  
     });
  
-// query a single url
+// query a  url
 c.queue('https://nareshit.in');
 
 c.on('drain',function(){
