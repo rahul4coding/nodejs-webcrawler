@@ -1,0 +1,20 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "a spider or spiderbot and often shortened to crawler, is an Internet bot that systematically browses the the given website.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul4coding/nodejs-webcrawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahul4coding/nodejs-webcrawler/issues"
+  },
+  "homepage": "https://github.com/rahul4coding/nodejs-webcrawler#readme"
+}
